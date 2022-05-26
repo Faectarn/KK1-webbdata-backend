@@ -18,7 +18,7 @@ fetch(http://localhost:5000/todos/)
 <b>Hämta specifik data</b>
 ```
 fetch(http://localhost:5000/todos/:id)
-(id genereras slumpmässigt vid skapandande av todo)
+(id genereras slumpmässigt vid skapande av todo)
 ```
 
 
